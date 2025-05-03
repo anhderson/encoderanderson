@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack React Native`**
 
-Me chamo Anderson Costa Moitinho da Silva, tenho 29 anos e sou natural de São Paulo. Concluí o ensino médio e faculdade no sul de SP, com cursos técnicos em informática. Formado em Gestão de Tecnologia da Informação, com cursos de Javascript, React Native e Hardware. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu site empresarial "https://infinity-technology.vercel.app/home", onde vendo serviços e esponho meu portifólio com alguns de meus projetos.
+Me chamo Anderson Costa Moitinho da Silva, tenho 29 anos e sou natural de São Paulo. Concluí o ensino médio e faculdade no sul de SP. Formado em Gestão de Tecnologia da Informação, com cursos de Javascript, React Native e Hardware. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu site empresarial "https://infinity-technology.vercel.app/home", onde vendo serviços e esponho meu portifólio com alguns de meus projetos.
 
 
 <p align="left">
