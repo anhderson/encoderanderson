@@ -1,8 +1,8 @@
-# 👩🏻‍💻 Anderson Costa
+# 👨🏻‍💻 Anderson Costa Moitinho
 
 **`Desenvolvedora FullStack React Native`**
 
-Me chamo Anderson Costa Moitinho da Silva, tenho 29 anos e sou natural de São Paulo. Concluí o ensino médio em SP, com o curso técnico em informática. Formado em Gestão de Tecnologia da Informação, com vários cursos de Javascript, React Native e Hardware. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu site empresarial "https://infinity-technology.vercel.app/home", onde vendo serviços e esponho meu portifólio com alguns de meus projetos.
+Me chamo Anderson Costa Moitinho da Silva, tenho 29 anos e sou natural de São Paulo. Concluí o ensino médio e faculdade no sul de SP, com cursos técnicos em informática. Formado em Gestão de Tecnologia da Informação, com cursos de Javascript, React Native e Hardware. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu site empresarial "https://infinity-technology.vercel.app/home", onde vendo serviços e esponho meu portifólio com alguns de meus projetos.
 
 
 <p align="left">
@@ -10,7 +10,7 @@ Me chamo Anderson Costa Moitinho da Silva, tenho 29 anos e sou natural de São P
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/anhderson?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
     
@@ -68,22 +68,8 @@ Me chamo Anderson Costa Moitinho da Silva, tenho 29 anos e sou natural de São P
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
+
+
 <img 
     align="left" 
     alt="SASS" 
@@ -92,30 +78,8 @@ Me chamo Anderson Costa Moitinho da Silva, tenho 29 anos e sou natural de São P
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
 />
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
+
+
 <img 
     align="left" 
     alt="Git" 
@@ -126,11 +90,11 @@ Me chamo Anderson Costa Moitinho da Silva, tenho 29 anos e sou natural de São P
 />
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="React"
+    title="React Native" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
 
 <br/>
